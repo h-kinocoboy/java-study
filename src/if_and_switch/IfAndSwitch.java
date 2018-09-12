@@ -1,3 +1,4 @@
+package if_and_switch;
 public class IfAndSwitch {
     public static void main(String[] args){
         System.out.println("start checkNumber");
